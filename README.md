@@ -1,4 +1,4 @@
-# MYBIKE
+# Lending MYBIKE
 - [DEMO LINK](https://erikkaraman.github.io/MYBIKE)
 
 #
